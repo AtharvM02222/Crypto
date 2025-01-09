@@ -1,0 +1,24 @@
+"root":{10 items
+"key":int4
+"updateAuthority":string"qEiAmYw7taKUDy7AGD9LhBgXRC4msj9NcFaSHMho8Ti"
+"mint":string"GKxXcaaQhCzALaAbRCS2kAGyT9uMRJPzJtr6VpwsLGX3"
+"data":{5 items
+"name":string"AtharvM"
+"symbol":string"ATHARVM"
+"uri":string"https://gateway.pinata.cloud/ipfs/QmSqE6mFJy75m8DTMwD9BUYJGmpfY63RaZKozzABBBHKqc"
+"sellerFeeBasisPoints":int0
+"creators":[1 item
+0:{3 items
+"address":string"qEiAmYw7taKUDy7AGD9LhBgXRC4msj9NcFaSHMho8Ti"
+"verified":int1
+"share":int100
+}
+]
+}
+"primarySaleHappened":int0
+"isMutable":int1
+"editionNonce":int255
+"tokenStandard":int2
+"collection":undefined
+"uses":undefined
+}
